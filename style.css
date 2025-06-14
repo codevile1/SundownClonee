@@ -356,6 +356,7 @@ nav h3{
     top: 30%;
     display: none;
     background-size:auto ;
+    pointer-events: none;
     background-position: center;
 
 }
