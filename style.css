@@ -20,7 +20,7 @@ html,body{
 #gola2,
 #hero {
     pointer-events: none;
-    z-index: -1;
+    /* z-index: -1; */
 }
 .loader{
     width: 100%;
